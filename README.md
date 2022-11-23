@@ -1,4 +1,4 @@
-# predict_kwh
+# Predict Engergy Consumption of a US house
 Investigate the Residential Energy Consumption Survey (RECS) data and use it to build a model that predicts electricity consumption for a given house. 
 
 [Collab Notebook](https://github.com/justyntyrrell/predict_energy/blob/main/predict_energy.ipynb)
